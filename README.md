@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Hunter CodePath iOS Club Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Prereqs
+
+### Add yarn: npm add yarn
+
+### Add React Router version 5: yarn add react-router-dom@5.0.0
+
+### Add Csass: yarn add node-sass
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
