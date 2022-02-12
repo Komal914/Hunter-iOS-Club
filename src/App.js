@@ -6,14 +6,14 @@ import { Route } from "react-router-dom";
 import "./App.css";
 
 function App() {
-    //return <div>Hello World!</div>;
+    // return <div>Hello World!</div>;
+
     return (
+
       <div className="App">
         <Header />
       </div>
     );
-
-  <Header/>
 }
 
 export default App;
