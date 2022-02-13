@@ -1,20 +1,18 @@
 import react from "react";
 import Homepage from "./components/pages/homepage/homepage.component";
-import Header from "./components/pages/header/header.component";
-
+import Header from "./components/header/header.component";
 import { Route } from "react-router-dom";
 import "./App.css";
 
-function App() {
-    // return <div>Hello World!</div>;
-
+class App extends react.Component {
+  render() {
     return (
-
       <div className="App">
-        <Header />
+        {" "}
+        <Header />{" "}
       </div>
     );
+  }
 }
 
 export default App;
-
